@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // Additional, per-project rules...
+    "react/jsx-key": "off",
+    "react/display-name": "off",
+    "react/jsx-no-undef": "off"
+  }
+}

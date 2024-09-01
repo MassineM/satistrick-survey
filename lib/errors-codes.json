@@ -1,0 +1,1402 @@
+{
+  "1": {
+    "shown": true,
+    "message": {
+      "en": "Unexpected error",
+      "fr": "Erreur inattendue"
+    }
+  },
+  "2": {
+    "shown": true,
+    "message": {
+      "en": "Not found",
+      "fr": "Introuvable"
+    }
+  },
+  "100000": {
+    "shown": true,
+    "message": {
+      "en": "Registration is disabled",
+      "fr": "L'inscription est désactivée"
+    }
+  },
+  "100001": {
+    "shown": false,
+    "message": {
+      "en": "Token refresh failed",
+      "fr": "Échec de rafraîchissement du jeton"
+    }
+  },
+  "100002": {
+    "shown": false,
+    "message": {
+      "en": "User authentication failed",
+      "fr": "Échec de l'authentification de l'utilisateur"
+    }
+  },
+  "100003": {
+    "shown": false,
+    "message": {
+      "en": "Authentication error",
+      "fr": "Erreur d'authentification"
+    }
+  },
+  "100004": {
+    "shown": false,
+    "message": {
+      "en": "Bearer token not provided",
+      "fr": "Jeton Bearer non fourni"
+    }
+  },
+  "200000": {
+    "shown": true,
+    "message": {
+      "en": "Email is required",
+      "fr": "L'adresse e-mail est obligatoire"
+    }
+  },
+  "200001": {
+    "shown": true,
+    "message": {
+      "en": "Password is required",
+      "fr": "Le mot de passe est obligatoire"
+    }
+  },
+  "200002": {
+    "shown": false,
+    "message": {
+      "en": "Role ID is required",
+      "fr": "L'ID du rôle est obligatoire"
+    }
+  },
+  "200003": {
+    "shown": true,
+    "message": {
+      "en": "Username is required",
+      "fr": "Le nom d'utilisateur est obligatoire"
+    }
+  },
+  "200004": {
+    "shown": true,
+    "message": {
+      "en": "Name is required",
+      "fr": "Le nom est obligatoire"
+    }
+  },
+  "200005": {
+    "shown": true,
+    "message": {
+      "en": "Surname is required",
+      "fr": "Le nom de famille est obligatoire"
+    }
+  },
+  "200006": {
+    "shown": true,
+    "message": {
+      "en": "Birthday is required",
+      "fr": "La date de naissance est obligatoire"
+    }
+  },
+  "200007": {
+    "shown": true,
+    "message": {
+      "en": "Gender is required",
+      "fr": "Le genre est obligatoire"
+    }
+  },
+  "200008": {
+    "shown": true,
+    "message": {
+      "en": "Login is required",
+      "fr": "Le login est obligatoire"
+    }
+  },
+  "200009": {
+    "shown": false,
+    "message": {
+      "en": "OTP is required",
+      "fr": "Le code OTP est obligatoire"
+    }
+  },
+  "200010": {
+    "shown": true,
+    "message": {
+      "en": "User type is required",
+      "fr": "Le type d'utilisateur est obligatoire"
+    }
+  },
+  "200011": {
+    "shown": true,
+    "message": {
+      "en": "Current password is required",
+      "fr": "Le mot de passe actuel est obligatoire"
+    }
+  },
+  "200012": {
+    "shown": true,
+    "message": {
+      "en": "New password is required",
+      "fr": "Le nouveau mot de passe est obligatoire"
+    }
+  },
+  "200013": {
+    "shown": true,
+    "message": {
+      "en": "Phone is required",
+      "fr": "Le numéro de téléphone est obligatoire"
+    }
+  },
+  "200014": {
+    "shown": true,
+    "message": {
+      "en": "Age is required",
+      "fr": "L'âge est obligatoire"
+    }
+  },
+  "200015": {
+    "shown": true,
+    "message": {
+      "en": "Height is required",
+      "fr": "La taille est obligatoire"
+    }
+  },
+  "200016": {
+    "shown": true,
+    "message": {
+      "en": "Weight is required",
+      "fr": "Le poids est obligatoire"
+    }
+  },
+  "200017": {
+    "shown": true,
+    "message": {
+      "en": "Is smoker flag is required",
+      "fr": "Le drapeau Fumeur est obligatoire"
+    }
+  },
+  "200018": {
+    "shown": true,
+    "message": {
+      "en": "Alcohol consumption is required",
+      "fr": "La consommation d'alcool est obligatoire"
+    }
+  },
+  "200019": {
+    "shown": true,
+    "message": {
+      "en": "Tiredness is required",
+      "fr": "Le niveau de fatigue est obligatoire"
+    }
+  },
+  "200020": {
+    "shown": true,
+    "message": {
+      "en": "Physical level is required",
+      "fr": "Le niveau physique est obligatoire"
+    }
+  },
+  "200021": {
+    "shown": true,
+    "message": {
+      "en": "Goal is required",
+      "fr": "L'objectif est obligatoire"
+    }
+  },
+  "200022": {
+    "shown": true,
+    "message": {
+      "en": "Period is required",
+      "fr": "La période est obligatoire"
+    }
+  },
+  "200023": {
+    "shown": true,
+    "message": {
+      "en": "Training rhythm is required",
+      "fr": "Le rythme d'entraînement est obligatoire"
+    }
+  },
+  "200024": {
+    "shown": true,
+    "message": {
+      "en": "Working day is required",
+      "fr": "La journée de travail est obligatoire"
+    }
+  },
+  "200025": {
+    "shown": false,
+    "message": {
+      "en": "Token is required",
+      "fr": "Le jeton est obligatoire"
+    }
+  },
+  "200026": {
+    "shown": true,
+    "message": {
+      "en": "File is required",
+      "fr": "Le fichier est obligatoire"
+    }
+  },
+  "200027": {
+    "shown": true,
+    "message": {
+      "en": "Users are required",
+      "fr": "Les utilisateurs sont obligatoires"
+    }
+  },
+  "200028": {
+    "shown": true,
+    "message": {
+      "en": "Document is required",
+      "fr": "Le document est obligatoire"
+    }
+  },
+  "200029": {
+    "shown": false,
+    "message": {
+      "en": "Google Place ID is required",
+      "fr": "L'ID Google Place est obligatoire"
+    }
+  },
+  "200030": {
+    "shown": false,
+    "message": {
+      "en": "Formatted address is required",
+      "fr": "L'adresse formatée est obligatoire"
+    }
+  },
+  "200031": {
+    "shown": false,
+    "message": {
+      "en": "Longitude is required",
+      "fr": "La longitude est obligatoire"
+    }
+  },
+  "200032": {
+    "shown": false,
+    "message": {
+      "en": "Latitude is required",
+      "fr": "La latitude est obligatoire"
+    }
+  },
+  "200033": {
+    "shown": false,
+    "message": {
+      "en": "Add or remove operation is required",
+      "fr": "L'opération Ajouter ou Supprimer est obligatoire"
+    }
+  },
+  "200034": {
+    "shown": true,
+    "message": {
+      "en": "Start at date is required",
+      "fr": "La date de début est obligatoire"
+    }
+  },
+  "200035": {
+    "shown": true,
+    "message": {
+      "en": "End at date is required",
+      "fr": "La date de fin est obligatoire"
+    }
+  },
+  "200036": {
+    "shown": false,
+    "message": {
+      "en": "Availability is required",
+      "fr": "La disponibilité est obligatoire"
+    }
+  },
+  "200037": {
+    "shown": true,
+    "message": {
+      "en": "please select an athlete",
+      "fr": "veiller selectionner un athlete"
+    }
+  },
+  "200038": {
+    "shown": false,
+    "message": {
+      "en": "Action is required",
+      "fr": "L'action est obligatoire"
+    }
+  },
+  "200039": {
+    "shown": true,
+    "message": {
+      "en": "Product is required",
+      "fr": "Le produit est obligatoire"
+    }
+  },
+  "200040": {
+    "shown": true,
+    "message": {
+      "en": "Topic is required",
+      "fr": "Le sujet est obligatoire"
+    }
+  },
+  "200041": {
+    "shown": true,
+    "message": {
+      "en": "Problem is required",
+      "fr": "Le problème est obligatoire"
+    }
+  },
+  "300000": {
+    "shown": true,
+    "message": {
+      "en": "Email is invalid",
+      "fr": "L'adresse e-mail n'est pas valide"
+    }
+  },
+  "300001": {
+    "shown": true,
+    "message": {
+      "en": "Password is invalid",
+      "fr": "Le mot de passe n'est pas valide"
+    }
+  },
+  "300002": {
+    "shown": false,
+    "message": {
+      "en": "Role ID is invalid",
+      "fr": "L'ID du rôle n'est pas valide"
+    }
+  },
+  "300003": {
+    "shown": false,
+    "message": {
+      "en": "Avatar is invalid",
+      "fr": "L'avatar n'est pas valide"
+    }
+  },
+  "300004": {
+    "shown": false,
+    "message": {
+      "en": "Avatar size exceeded",
+      "fr": "La taille de l'avatar est dépassée"
+    }
+  },
+  "300005": {
+    "shown": true,
+    "message": {
+      "en": "Username is invalid",
+      "fr": "Le nom d'utilisateur n'est pas valide"
+    }
+  },
+  "300006": {
+    "shown": false,
+    "message": {
+      "en": "Gender is invalid",
+      "fr": "Le genre n'est pas valide"
+    }
+  },
+  "300007": {
+    "shown": true,
+    "message": {
+      "en": "OTP is invalid",
+      "fr": "Le code OTP n'est pas valide"
+    }
+  },
+  "300008": {
+    "shown": false,
+    "message": {
+      "en": "OTP is too short",
+      "fr": "Le code OTP est trop court"
+    }
+  },
+  "300009": {
+    "shown": false,
+    "message": {
+      "en": "OTP is too long",
+      "fr": "Le code OTP est trop long"
+    }
+  },
+  "300010": {
+    "shown": true,
+    "message": {
+      "en": "Surname is invalid",
+      "fr": "Le nom de famille n'est pas valide"
+    }
+  },
+  "300011": {
+    "shown": true,
+    "message": {
+      "en": "Description is invalid",
+      "fr": "La description n'est pas valide"
+    }
+  },
+  "300012": {
+    "shown": true,
+    "message": {
+      "en": "Name is invalid",
+      "fr": "Le nom n'est pas valide"
+    }
+  },
+  "300013": {
+    "shown": true,
+    "message": {
+      "en": "Phone is invalid",
+      "fr": "Le numéro de téléphone n'est pas valide"
+    }
+  },
+  "300014": {
+    "shown": true,
+    "message": {
+      "en": "Weight is invalid",
+      "fr": "Le poids n'est pas valide"
+    }
+  },
+  "300015": {
+    "shown": true,
+    "message": {
+      "en": "Weight is too low",
+      "fr": "Le poids est trop bas"
+    }
+  },
+  "300016": {
+    "shown": true,
+    "message": {
+      "en": "Height is invalid",
+      "fr": "La taille n'est pas valide"
+    }
+  },
+  "300017": {
+    "shown": true,
+    "message": {
+      "en": "Height is too low",
+      "fr": "La taille est trop basse"
+    }
+  },
+  "300018": {
+    "shown": true,
+    "message": {
+      "en": "Status is invalid",
+      "fr": "Le statut n'est pas valide"
+    }
+  },
+  "300019": {
+    "shown": true,
+    "message": {
+      "en": "Siren is invalid",
+      "fr": "Le SIREN n'est pas valide"
+    }
+  },
+  "300020": {
+    "shown": true,
+    "message": {
+      "en": "SIRET is invalid",
+      "fr": "Le SIRET n'est pas valide"
+    }
+  },
+  "300021": {
+    "shown": true,
+    "message": {
+      "en": "TVA is invalid",
+      "fr": "Le TVA n'est pas valide"
+    }
+  },
+  "300022": {
+    "shown": true,
+    "message": {
+      "en": "SAP is invalid",
+      "fr": "Le SAP n'est pas valide"
+    }
+  },
+  "300023": {
+    "shown": false,
+    "message": {
+      "en": "Mail notifications flag is invalid",
+      "fr": "Le drapeau de notifications par e-mail n'est pas valide"
+    }
+  },
+  "300024": {
+    "shown": false,
+    "message": {
+      "en": "Birthday is invalid",
+      "fr": "La date de naissance n'est pas valide"
+    }
+  },
+  "300025": {
+    "shown": true,
+    "message": {
+      "en": "Birthday is too high",
+      "fr": "La date de naissance est trop élevée"
+    }
+  },
+  "300026": {
+    "shown": true,
+    "message": {
+      "en": "Birthday is too low",
+      "fr": "La date de naissance est trop basse"
+    }
+  },
+  "300027": {
+    "shown": false,
+    "message": {
+      "en": "Pro card expiry date is invalid",
+      "fr": "La date d'expiration de la carte professionnelle n'est pas valide"
+    }
+  },
+  "300028": {
+    "shown": true,
+    "message": {
+      "en": "Pro card expiry date is too low",
+      "fr": "La date d'expiration de la carte professionnelle est trop basse"
+    }
+  },
+  "300029": {
+    "shown": false,
+    "message": {
+      "en": "User type is invalid",
+      "fr": "Le type d'utilisateur n'est pas valide"
+    }
+  },
+  "300030": {
+    "shown": true,
+    "message": {
+      "en": "Current password is invalid",
+      "fr": "Le mot de passe actuel n'est pas valide"
+    }
+  },
+  "300031": {
+    "shown": true,
+    "message": {
+      "en": "New password is invalid",
+      "fr": "Le nouveau mot de passe n'est pas valide"
+    }
+  },
+  "300032": {
+    "shown": false,
+    "message": {
+      "en": "Working day is too low",
+      "fr": "La journée de travail est trop basse"
+    }
+  },
+  "300033": {
+    "shown": false,
+    "message": {
+      "en": "Age is invalid",
+      "fr": "L'âge n'est pas valide"
+    }
+  },
+  "300034": {
+    "shown": true,
+    "message": {
+      "en": "Age is too low",
+      "fr": "L'âge est trop bas"
+    }
+  },
+  "300035": {
+    "shown": true,
+    "message": {
+      "en": "Age is too high",
+      "fr": "L'âge est trop élevé"
+    }
+  },
+  "300036": {
+    "shown": false,
+    "message": {
+      "en": "Is smoker flag is invalid",
+      "fr": "Le drapeau Fumeur n'est pas valide"
+    }
+  },
+  "300037": {
+    "shown": false,
+    "message": {
+      "en": "Alcohol consumption is invalid",
+      "fr": "La consommation d'alcool n'est pas valide"
+    }
+  },
+  "300038": {
+    "shown": false,
+    "message": {
+      "en": "Alcohol consumption is too low",
+      "fr": "La consommation d'alcool est trop basse"
+    }
+  },
+  "300039": {
+    "shown": false,
+    "message": {
+      "en": "Tiredness is invalid",
+      "fr": "La fatigue n'est pas valide"
+    }
+  },
+  "300040": {
+    "shown": false,
+    "message": {
+      "en": "Tiredness is too low",
+      "fr": "La fatigue est trop basse"
+    }
+  },
+  "300041": {
+    "shown": false,
+    "message": {
+      "en": "Physical level is invalid",
+      "fr": "Le niveau physique n'est pas valide"
+    }
+  },
+  "300042": {
+    "shown": false,
+    "message": {
+      "en": "Physical level is too low",
+      "fr": "Le niveau physique est trop bas"
+    }
+  },
+  "300043": {
+    "shown": false,
+    "message": {
+      "en": "Goal is invalid",
+      "fr": "L'objectif n'est pas valide"
+    }
+  },
+  "300044": {
+    "shown": false,
+    "message": {
+      "en": "Goal is too low",
+      "fr": "L'objectif est trop bas"
+    }
+  },
+  "300045": {
+    "shown": false,
+    "message": {
+      "en": "Period is invalid",
+      "fr": "La période n'est pas valide"
+    }
+  },
+  "300046": {
+    "shown": false,
+    "message": {
+      "en": "Period is too low",
+      "fr": "La période est trop basse"
+    }
+  },
+  "300047": {
+    "shown": false,
+    "message": {
+      "en": "Training rhythm is invalid",
+      "fr": "Le rythme d'entraînement n'est pas valide"
+    }
+  },
+  "300048": {
+    "shown": false,
+    "message": {
+      "en": "Training rhythm is too low",
+      "fr": "Le rythme d'entraînement est trop bas"
+    }
+  },
+  "300049": {
+    "shown": false,
+    "message": {
+      "en": "Working day is invalid",
+      "fr": "La journée de travail n'est pas valide"
+    }
+  },
+  "300050": {
+    "shown": false,
+    "message": {
+      "en": "Social auth token is invalid",
+      "fr": "Le jeton d'authentification sociale n'est pas valide"
+    }
+  },
+  "300051": {
+    "shown": false,
+    "message": {
+      "en": "Target user is invalid",
+      "fr": "L'utilisateur cible n'est pas valide"
+    }
+  },
+  "300052": {
+    "shown": false,
+    "message": {
+      "en": "Token is invalid",
+      "fr": "Le jeton n'est pas valide"
+    }
+  },
+  "300053": {
+    "shown": false,
+    "message": {
+      "en": "File must be in base64 format",
+      "fr": "Le fichier doit être au format base64"
+    }
+  },
+  "300054": {
+    "shown": true,
+    "message": {
+      "en": "File is too large",
+      "fr": "Le fichier est trop volumineux"
+    }
+  },
+  "300055": {
+    "shown": false,
+    "message": {
+      "en": "Users must be provided as an array",
+      "fr": "Les utilisateurs doivent être fournis sous forme de tableau"
+    }
+  },
+  "300056": {
+    "shown": false,
+    "message": {
+      "en": "Users cannot be empty",
+      "fr": "Les utilisateurs ne peuvent pas être vides"
+    }
+  },
+  "300057": {
+    "shown": false,
+    "message": {
+      "en": "Users must contain valid IDs",
+      "fr": "Les utilisateurs doivent contenir des ID valides"
+    }
+  },
+  "300058": {
+    "shown": false,
+    "message": {
+      "en": "Document must be a valid ID",
+      "fr": "Le document doit être un ID valide"
+    }
+  },
+  "300059": {
+    "shown": false,
+    "message": {
+      "en": "Select clients only",
+      "fr": "Sélectionnez uniquement les clients"
+    }
+  },
+  "300060": {
+    "shown": false,
+    "message": {
+      "en": "Address is invalid",
+      "fr": "L'adresse n'est pas valide"
+    }
+  },
+  "300061": {
+    "shown": true,
+    "message": {
+      "en": "Address line 2 is invalid",
+      "fr": "La ligne d'adresse 2 n'est pas valide"
+    }
+  },
+  "300062": {
+    "shown": true,
+    "message": {
+      "en": "City is invalid",
+      "fr": "La ville n'est pas valide"
+    }
+  },
+  "300063": {
+    "shown": true,
+    "message": {
+      "en": "Postal code is invalid",
+      "fr": "Le code postal n'est pas valide"
+    }
+  },
+  "300064": {
+    "shown": true,
+    "message": {
+      "en": "Country is invalid",
+      "fr": "Le pays n'est pas valide"
+    }
+  },
+  "300065": {
+    "shown": true,
+    "message": {
+      "en": "Additional information is invalid",
+      "fr": "Les informations supplémentaires ne sont pas valides"
+    }
+  },
+  "300066": {
+    "shown": false,
+    "message": {
+      "en": "Range is invalid",
+      "fr": "La plage n'est pas valide"
+    }
+  },
+  "300067": {
+    "shown": false,
+    "message": {
+      "en": "Range is too large",
+      "fr": "La plage est trop grande"
+    }
+  },
+  "300068": {
+    "shown": false,
+    "message": {
+      "en": "Is billing flag is invalid",
+      "fr": "Le drapeau de facturation n'est pas valide"
+    }
+  },
+  "300069": {
+    "shown": false,
+    "message": {
+      "en": "Google Place ID is invalid",
+      "fr": "L'ID Google Place n'est pas valide"
+    }
+  },
+  "300070": {
+    "shown": false,
+    "message": {
+      "en": "Formatted address is invalid",
+      "fr": "L'adresse formatée n'est pas valide"
+    }
+  },
+  "300071": {
+    "shown": false,
+    "message": {
+      "en": "Longitude is invalid",
+      "fr": "La longitude n'est pas valide"
+    }
+  },
+  "300072": {
+    "shown": false,
+    "message": {
+      "en": "Latitude is invalid",
+      "fr": "La latitude n'est pas valide"
+    }
+  },
+  "300073": {
+    "shown": false,
+    "message": {
+      "en": "Add operation is invalid",
+      "fr": "L'opération Ajouter n'est pas valide"
+    }
+  },
+  "300074": {
+    "shown": false,
+    "message": {
+      "en": "Remove operation is invalid",
+      "fr": "L'opération Supprimer n'est pas valide"
+    }
+  },
+  "300075": {
+    "shown": false,
+    "message": {
+      "en": "Unit is invalid",
+      "fr": "L'unité n'est pas valide"
+    }
+  },
+  "300076": {
+    "shown": false,
+    "message": {
+      "en": "Current value is invalid",
+      "fr": "La valeur actuelle n'est pas valide"
+    }
+  },
+  "300077": {
+    "shown": false,
+    "message": {
+      "en": "Current value is too large",
+      "fr": "La valeur actuelle est trop grande"
+    }
+  },
+  "300078": {
+    "shown": false,
+    "message": {
+      "en": "Goal value is too large",
+      "fr": "La valeur de l'objectif est trop grande"
+    }
+  },
+  "300079": {
+    "shown": false,
+    "message": {
+      "en": "Initial value is invalid",
+      "fr": "La valeur initiale n'est pas valide"
+    }
+  },
+  "300080": {
+    "shown": false,
+    "message": {
+      "en": "Initial value is too large",
+      "fr": "La valeur initiale est trop grande"
+    }
+  },
+  "300081": {
+    "shown": false,
+    "message": {
+      "en": "Target value is invalid",
+      "fr": "La valeur cible n'est pas valide"
+    }
+  },
+  "300082": {
+    "shown": false,
+    "message": {
+      "en": "Start at date is invalid",
+      "fr": "La date de début n'est pas valide"
+    }
+  },
+  "300083": {
+    "shown": false,
+    "message": {
+      "en": "Start at date is too low",
+      "fr": "La date de début est trop basse"
+    }
+  },
+  "300084": {
+    "shown": false,
+    "message": {
+      "en": "End at date is invalid",
+      "fr": "La date de fin n'est pas valide"
+    }
+  },
+  "300085": {
+    "shown": false,
+    "message": {
+      "en": "End at date is too low",
+      "fr": "La date de fin est trop basse"
+    }
+  },
+  "300086": {
+    "shown": false,
+    "message": {
+      "en": "Timestamp is invalid",
+      "fr": "Le tampon temporel n'est pas valide"
+    }
+  },
+  "300087": {
+    "shown": false,
+    "message": {
+      "en": "Start at date is in the future",
+      "fr": "La date de début est dans le futur"
+    }
+  },
+  "300088": {
+    "shown": false,
+    "message": {
+      "en": "Start at date is after end at date",
+      "fr": "La date de début est après la date de fin"
+    }
+  },
+  "300089": {
+    "shown": false,
+    "message": {
+      "en": "Availability range is invalid",
+      "fr": "La plage de disponibilité n'est pas valide"
+    }
+  },
+  "300090": {
+    "shown": false,
+    "message": {
+      "en": "Availability length is too short",
+      "fr": "La durée de disponibilité est trop courte"
+    }
+  },
+  "300091": {
+    "shown": false,
+    "message": {
+      "en": "Availability is invalid",
+      "fr": "La disponibilité n'est pas valide"
+    }
+  },
+  "300092": {
+    "shown": false,
+    "message": {
+      "en": "Athlete is invalid",
+      "fr": "L'athlète n'est pas valide"
+    }
+  },
+  "300093": {
+    "shown": false,
+    "message": {
+      "en": "Action is invalid",
+      "fr": "L'action n'est pas valide"
+    }
+  },
+  "300094": {
+    "shown": false,
+    "message": {
+      "en": "Product is invalid",
+      "fr": "Le produit n'est pas valide"
+    }
+  },
+  "300095": {
+    "shown": false,
+    "message": {
+      "en": "Topic must be a string",
+      "fr": "Le sujet doit être une chaîne de caractères"
+    }
+  },
+  "300096": {
+    "shown": false,
+    "message": {
+      "en": "Problem must be a string",
+      "fr": "Le problème doit être une chaîne de caractères"
+    }
+  },
+  "300097": {
+    "shown": false,
+    "message": {
+      "en": "Attachment must be a string",
+      "fr": "La pièce jointe doit être une chaîne de caractères"
+    }
+  },
+  "300098": {
+    "shown": true,
+    "message": {
+      "en": "Height is too high",
+      "fr": "La taille est trés élevée"
+    }
+  },
+  "300099": {
+    "shown": true,
+    "message": {
+      "en": "weight is too high",
+      "fr": "Le poid est trés élevé"
+    }
+  },
+  "400000": {
+    "shown": true,
+    "message": {
+      "en": "Email is already in use",
+      "fr": "L'adresse e-mail est déjà utilisée"
+    }
+  },
+  "400001": {
+    "shown": true,
+    "message": {
+      "en": "Username is already in use",
+      "fr": "Le nom d'utilisateur est déjà utilisé"
+    }
+  },
+  "400002": {
+    "shown": true,
+    "message": {
+      "en": "Availability already exists",
+      "fr": "La disponibilité existe déjà"
+    }
+  },
+  "400003": {
+    "shown": true,
+    "message": {
+      "en": "Request already exists",
+      "fr": "La demande existe déjà"
+    }
+  },
+  "400004": {
+    "shown": true,
+    "message": {
+      "en": "Request has already been accepted",
+      "fr": "La demande a déjà été acceptée"
+    }
+  },
+  "500000": {
+    "shown": true,
+    "message": {
+      "en": "Invalid credentials",
+      "fr": "Email ou mot de passe incorrect"
+    }
+  },
+  "500001": {
+    "shown": true,
+    "message": {
+      "en": "OTP is incorrect",
+      "fr": "Le code OTP est incorrect"
+    }
+  },
+  "500002": {
+    "shown": true,
+    "message": {
+      "en": "Password is incorrect",
+      "fr": "Le mot de passe est incorrect"
+    }
+  },
+  "500003": {
+    "shown": false,
+    "message": {
+      "en": "Token is incorrect",
+      "fr": "Le jeton est incorrect"
+    }
+  },
+  "500004": {
+    "shown": false,
+    "message": {
+      "en": "Device token is incorrect",
+      "fr": "Le jeton de l'appareil est incorrect"
+    }
+  },
+  "600000": {
+    "shown": true,
+    "message": {
+      "en": "OTP has expired",
+      "fr": "Le code OTP a expiré"
+    }
+  },
+  "600001": {
+    "shown": false,
+    "message": {
+      "en": "Token has expired",
+      "fr": "Le jeton a expiré"
+    }
+  },
+  "600002": {
+    "shown": true,
+    "message": {
+      "en": "Availability has expired",
+      "fr": "La disponibilité a expiré"
+    }
+  },
+  "600003": {
+    "shown": true,
+    "message": {
+      "en": "Request has expired",
+      "fr": "La demande a expiré"
+    }
+  },
+  "700000": {
+    "shown": false,
+    "message": {
+      "en": "Password confirmation is required",
+      "fr": "La confirmation du mot de passe est requise"
+    }
+  },
+  "700001": {
+    "shown": true,
+    "message": {
+      "en": "Password confirmation is invalid",
+      "fr": "La confirmation du mot de passe n'est pas valide"
+    }
+  },
+  "700002": {
+    "shown": true,
+    "message": {
+      "en": "Password confirmation does not match",
+      "fr": "La confirmation du mot de passe ne correspond pas"
+    }
+  },
+  "700003": {
+    "shown": false,
+    "message": {
+      "en": "New password confirmation is required",
+      "fr": "La confirmation du nouveau mot de passe est requise"
+    }
+  },
+  "700004": {
+    "shown": true,
+    "message": {
+      "en": "New password confirmation is invalid",
+      "fr": "La confirmation du nouveau mot de passe n'est pas valide"
+    }
+  },
+  "800000": {
+    "shown": true,
+    "message": {
+      "en": "Email not found",
+      "fr": "Email introuvable"
+    }
+  },
+  "800001": {
+    "shown": true,
+    "message": {
+      "en": "User not found",
+      "fr": "Utilisateur introuvable"
+    }
+  },
+  "800002": {
+    "shown": true,
+    "message": {
+      "en": "Document not found",
+      "fr": "Document introuvable"
+    }
+  },
+  "800003": {
+    "shown": true,
+    "message": {
+      "en": "Product not found",
+      "fr": "Produit introuvable"
+    }
+  },
+  "900000": {
+    "shown": true,
+    "message": {
+      "en": "Cannot access the requested resource",
+      "fr": "Impossible d'accéder à la ressource demandée"
+    }
+  },
+  "900001": {
+    "shown": false,
+    "message": {
+      "en": "Availability has an active session",
+      "fr": "La disponibilité a une session active"
+    }
+  },
+  "900002": {
+    "shown": true,
+    "message": {
+      "en": "No client active subscription",
+      "fr": "Aucune abonnement actif de client"
+    }
+  },
+  "900003": {
+    "shown": false,
+    "message": {
+      "en": "Availability is not active",
+      "fr": "La disponibilité n'est pas active"
+    }
+  },
+  "900004": {
+    "shown": false,
+    "message": {
+      "en": "Request has been rejected",
+      "fr": "La demande a été rejetée"
+    }
+  },
+  "900005": {
+    "shown": false,
+    "message": {
+      "en": "Stripe error",
+      "fr": "Erreur Stripe"
+    }
+  },
+  "400005": {
+    "shown": false,
+    "message": {
+      "en": "active subscription already exists",
+      "fr": "un abonnement actif existe déja"
+    }
+  },
+  "300100": {
+    "shown": false,
+    "message": {
+      "en": "invalid account status",
+      "fr": "statut de compte invalide"
+    }
+  },
+  "200042": {
+    "shown": false,
+    "message": {
+      "en": "QR code required",
+      "fr": "le code QR est obligatoire"
+    }
+  },
+  "500005": {
+    "shown": false,
+    "message": {
+      "en": "QR code incorrect",
+      "fr": "le code QR est incorrect"
+    }
+  },
+  "400006": {
+    "shown": true,
+    "message": {
+      "en": "this session was already verified",
+      "fr": "cette séance a déjà été vérifiée"
+    }
+  },
+  "300101": {
+    "shown": false,
+    "message": {
+      "en": "bounded is invalid",
+      "fr": "la valeur du 'boudned' est invalide"
+    }
+  },
+  "300102": {
+    "shown": false,
+    "message": {
+      "en": "filter interval too big",
+      "fr": "l'intervale du filtrage est trés large"
+    }
+  },
+  "300103": {
+    "shown": false,
+    "message": {
+      "en": "the 'from' filter value must be before 'to'",
+      "fr": "la valeur 'from' doit être avant la valeur 'vers'"
+    }
+  },
+  "300107": {
+    "shown": true,
+    "message": {
+      "en": "session can only be verified at its start time",
+      "fr": "la session ne peut être vérifiée qu'à son heure de début"
+    }
+  },
+  "300108": {
+    "shown": true,
+    "message": {
+      "en": "session can only be verified before its time has ended",
+      "fr": "la session ne peut être vérifiée qu'avant la fin de son temps"
+    }
+  },
+  "300109": {
+    "shown": true,
+    "message": {
+      "en": "responsible name invalid",
+      "fr": "le nom du responsable est invalide"
+    }
+  },
+  "300110": {
+    "shown": true,
+    "message": {
+      "en": "activity invalid",
+      "fr": "l'activitée est invalide"
+    }
+  },
+  "300111": {
+    "shown": true,
+    "message": {
+      "en": "participant count invalid",
+      "fr": "le nombre du participants est invalide"
+    }
+  },
+  "300112": {
+    "shown": false,
+    "message": {
+      "en": "social reason invalid",
+      "fr": "la raison sociale est invalide"
+    }
+  },
+  "900006": {
+    "shown": true,
+    "message": {
+      "en": "can't renew subscription",
+      "fr": "renouvellement d'abonnement impossible"
+    }
+  },
+  "900007": {
+    "shown": true,
+    "message": {
+      "en": "client's max sessions per week reached",
+      "fr": "nombre maximum de séances par semaine du client atteint"
+    }
+  },
+  "300113": {
+    "shown": true,
+    "message": {
+      "en": "invalid access code",
+      "fr": "code d'access invalid"
+    }
+  },
+  "200043": {
+    "shown": true,
+    "message": {
+      "en": "the access code is required",
+      "fr": "le code d'accés est obligatoire"
+    }
+  },
+  "300114": {
+    "shown": false,
+    "message": {
+      "en": "start_at and end_at must be in the same day",
+      "fr": "start_at and end_at must be in the same day"
+    }
+  },
+  "400007": {
+    "shown": false,
+    "message": {
+      "en": "this athlete already has a coach",
+      "fr": "cet athlete a deja un coach"
+    }
+  },
+  "400008": {
+    "shown": true,
+    "message": {
+      "en": "suggestion already approved",
+      "fr": "proposition deja approuvée"
+    }
+  },
+  "200044": {
+    "shown": true,
+    "message": {
+      "en": "suggestion required",
+      "fr": "la proposition est obligatoire"
+    }
+  }
+}
